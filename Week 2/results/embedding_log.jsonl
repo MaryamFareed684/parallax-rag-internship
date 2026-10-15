@@ -1,0 +1,2 @@
+{"time": "2026-10-15T23:05:12", "model": "all-MiniLM-L6-v2", "documents": 200, "chunks": 14888, "chunk_size": 500, "overlap": 50, "chunking_seconds": 0.25, "model_load_seconds": 8.33, "embedding_seconds": 824.46, "chunks_per_second": 18.1, "embedding_dim": 384}
+{"time": "2026-10-15T23:27:42", "model": "all-MiniLM-L6-v2", "documents": 5920, "chunks": 26098, "chunk_size": 500, "overlap": 50, "chunking_seconds": 3.95, "model_load_seconds": 6.63, "embedding_seconds": 1270.78, "chunks_per_second": 20.5, "embedding_dim": 384}

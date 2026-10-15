@@ -1,0 +1,13 @@
+category,query,mean_ms,min_ms,max_ms,embed_ms,top1_title,top1_distance
+short keyword,photosynthesis,11.1,9.8,12.9,7.0,Photosynthetic efficiency,0.248
+short keyword,Napoleon,10.1,8.5,12.9,5.3,House of Bonaparte,0.416
+very short,dog,9.7,7.8,11.3,5.6,Beagle,0.597
+question,who invented the telephone,11.0,10.0,13.3,6.6,Alexander Graham Bell,0.254
+question,how do plants make energy from sunlight,11.3,10.5,12.7,7.6,Photosynthetic efficiency,0.336
+question,why did the Roman Empire fall,12.0,10.9,13.0,8.3,Augustus,0.463
+long,"I want to understand how the French Revolution started, what the main causes were, and how it changed the government of France afterwards",15.7,14.4,16.9,11.8,American Revolution,0.539
+long,Explain the difference between a virus and a bacterium and how each one causes disease in the human body,15.2,14.5,16.0,11.4,Bacteriophage,0.481
+typo,photosyntesis in plnts,11.3,10.1,12.5,7.6,Photosynthetic efficiency,0.538
+typo,who invnted the telefone,11.6,10.5,14.3,7.7,James Cossar Ewart,0.515
+off-topic,best pizza recipe with extra cheese,10.9,10.2,12.4,7.3,Gamalost,0.599
+off-topic,how to fix a flat bicycle tire,10.8,9.3,11.7,6.9,Tire load sensitivity,0.673
