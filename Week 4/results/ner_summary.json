@@ -1,0 +1,9 @@
+{
+  "chunks": 26098,
+  "ner_seconds": 315.7,
+  "chunks_per_second": 82.7,
+  "share_has_person": 0.64,
+  "share_has_org": 0.728,
+  "share_has_place": 0.627,
+  "share_has_date": 0.629
+}
