@@ -11,7 +11,7 @@ class FakeModel:
 
 
 def make_collection(tmp_path):
-    col = get_collection(path=str(tmp_path), name="t")
+    col = get_collection(path=str(tmp_path), name="test_col")
     metas = [
         {"title": "A", "topic_id": 1, "has_person": True, "topic_similarity": 0.9},
         {"title": "B", "topic_id": 1, "has_person": False, "topic_similarity": 0.4},

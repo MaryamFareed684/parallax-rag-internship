@@ -11,6 +11,8 @@ parser.add_argument("--org", action="store_true")
 parser.add_argument("--place", action="store_true")
 parser.add_argument("--date", action="store_true")
 parser.add_argument("--min-sim", type=float, help="minimum topic similarity, for example 0.5")
+parser.add_argument("--model-only", action="store_true",
+                    help="only documents whose topic was found by the model")
 args = parser.parse_args()
 
 where = build_where(

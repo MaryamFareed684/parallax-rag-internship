@@ -1,0 +1,6 @@
+scenario,mean_ms,p95_ms,avg_results,violations
+no filter,19.2,25.6,5.0,0
+topic (music),44.2,64.4,5.0,0
+has_person,142.6,202.5,5.0,0
+place + date,301.1,454.0,5.0,0
+similarity >= 0.5,181.9,247.6,5.0,0
